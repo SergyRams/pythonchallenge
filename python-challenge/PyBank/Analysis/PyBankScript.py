@@ -1,0 +1,7 @@
+print("@"*79)
+print("Financial Analysis")
+print("Total of Months  85")
+print("Average change on Profits and Losses -2315.12)
+print("Greatest increase in Profits  Feb-2012 1170593")
+print("Greatest decrease in Profits  Sept-2013 -1196225")
+print("@"*79)
